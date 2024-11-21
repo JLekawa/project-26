@@ -1,0 +1,5 @@
+- page: index.md
+- page: style-guide.md
+- page: about.md
+- group: Museum API
+  page: openapi.yaml
